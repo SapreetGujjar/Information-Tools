@@ -1,0 +1,25 @@
+[Sat Aug  6 18:00:45 2022] PHP 8.0.8 Development Server (http://localhost:2564) started
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37684 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37684 [200]: (null) /
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37684 Closing
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37686 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37686 [200]: (null) /client.min.js
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37686 Closing
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37688 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37688 [200]: (null) /loc.js
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37688 Closing
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37690 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37690 [200]: (null) /js/_app.js
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37690 Closing
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37692 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37692 [200]: POST /info.php
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37692 Closing
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37694 Accepted
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37694 [404]: POST /favicon.ico - No such file or directory
+[Sat Aug  6 18:00:50 2022] 127.0.0.1:37694 Closing
+[Sat Aug  6 18:00:56 2022] 127.0.0.1:37698 Accepted
+[Sat Aug  6 18:00:56 2022] 127.0.0.1:37698 [200]: POST /upload.php
+[Sat Aug  6 18:00:56 2022] 127.0.0.1:37698 Closing
+[Sat Aug  6 18:01:02 2022] 127.0.0.1:37700 Accepted
+[Sat Aug  6 18:01:02 2022] 127.0.0.1:37700 [200]: POST /upload.php
+[Sat Aug  6 18:01:02 2022] 127.0.0.1:37700 Closing

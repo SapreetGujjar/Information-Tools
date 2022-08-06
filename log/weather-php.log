@@ -1,0 +1,30 @@
+[Fri Aug  5 22:14:09 2022] PHP 8.0.8 Development Server (http://localhost:2897) started
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35742 Accepted
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35742 [200]: (null) /
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35742 Closing
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35744 Accepted
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35744 [200]: (null) /location.js
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35744 Closing
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35746 Accepted
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35746 [200]: (null) /client.min.js
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35746 Closing
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35748 Accepted
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35748 [200]: (null) /loc.js
+[Fri Aug  5 22:14:15 2022] 127.0.0.1:35748 Closing
+[Fri Aug  5 22:14:44 2022] 127.0.0.1:35750 Accepted
+[Fri Aug  5 22:14:44 2022] 127.0.0.1:35750 [200]: POST /info.php
+[Fri Aug  5 22:14:44 2022] 127.0.0.1:35750 Closing
+[Fri Aug  5 22:14:59 2022] 127.0.0.1:35752 Accepted
+[Fri Aug  5 22:14:59 2022] PHP Warning:  Undefined variable $acc in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 9
+[Fri Aug  5 22:14:59 2022] PHP Warning:  Undefined variable $alt in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 10
+[Fri Aug  5 22:14:59 2022] PHP Warning:  Undefined variable $dir in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 11
+[Fri Aug  5 22:14:59 2022] PHP Warning:  Undefined variable $spd in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 12
+[Fri Aug  5 22:14:59 2022] 127.0.0.1:35752 [200]: POST /result.php
+[Fri Aug  5 22:14:59 2022] 127.0.0.1:35752 Closing
+[Fri Aug  5 22:15:09 2022] 127.0.0.1:35754 Accepted
+[Fri Aug  5 22:15:09 2022] PHP Warning:  Undefined variable $acc in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 9
+[Fri Aug  5 22:15:09 2022] PHP Warning:  Undefined variable $alt in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 10
+[Fri Aug  5 22:15:09 2022] PHP Warning:  Undefined variable $dir in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 11
+[Fri Aug  5 22:15:09 2022] PHP Warning:  Undefined variable $spd in /home/sabi/Desktop/Storm-Breaker/template/weather/result.php on line 12
+[Fri Aug  5 22:15:09 2022] 127.0.0.1:35754 [200]: POST /result.php
+[Fri Aug  5 22:15:09 2022] 127.0.0.1:35754 Closing
